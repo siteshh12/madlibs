@@ -24,6 +24,7 @@ if len(email)>=6:
               print("wrong email 3")
     else:
         print('wrong Email 2')
-
+else:
+    print("wrong Email 1")
 
 
