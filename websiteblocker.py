@@ -2,7 +2,7 @@ import datetime
 import time
 
 end_time = datetime.datetime(2023,4,10)
-site_block = ["www.adogain.com"]
+site_block = ["www.websitename.com"]
 host_path = "C:/Windows/System32/drivers/etc/hosts"
 redirect = "127.0.0.1"
 
